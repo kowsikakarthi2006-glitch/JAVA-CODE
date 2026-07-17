@@ -1,0 +1,18 @@
+import java.util.*;
+class Main {
+    public static void main(String[] args)
+    {
+        String str1="Kowsika";
+        String str2="B.E-EEE";
+        char C ='A';
+        String Address="841/3 Malasuthi Road,Tiruchengode,Nammakal";
+        int Pincode=637205;
+        double CGPA=7.61d;
+        System.out.println("Name="+str1);
+        System.out.println("class="+str2);
+         System.out.println("section="+C);
+          System.out.println("Address="+Address);
+          System.out.println("Pincode="+Pincode);
+          System.out.println("CGPA="+CGPA);
+    }
+}
